@@ -7,12 +7,12 @@ Follow the steps below (some pics link to YouTube) or just download the complete
 project included.
 
 
-*To run Mapp Robotics on a real PLC/axis a license '1TGMPDELTA.00-01' is required !
-*To run Automation Runtime Embedded a license '1TG4601.06-5' is required !
+* To run Mapp Robotics on a real PLC/axis a license '1TGMPDELTA.00-01' is required !
+* To run Automation Runtime Embedded a license '1TG4601.06-5' is required !
 
 ## 1. Install Technology Package Mapp Motion 5.5
 
-![install mapp motion](https://github.com/hilch/mapp-motion-getting-started/blob/master/media/02_install_mapp_motion_55.png)
+![install mapp motion](https://github.com/hilch/mapp-robotics-getting-started/blob/master/media/01_install_mapp_motion_55.png)
 
 ## 2. Create project
 
