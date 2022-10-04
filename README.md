@@ -1,6 +1,9 @@
-# Getting Started with B&R "Mapp Robotics"
-
 [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![Made For B&R](https://github.com/hilch/BandR-badges/blob/main/Made-For-BrAutomation.svg)](https://www.br-automation.com)
+
+
+
+# Getting Started with B&R "Mapp Robotics"
 
 This tutorial shows how to use B&amp;R "Mapp Motion / Robotics" Technology Package to implement a delta robot.
 Follow the steps below (some pics link to YouTube) or just download the complete release with Automation Studio
